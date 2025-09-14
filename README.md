@@ -23,6 +23,5 @@ This **Smart Home Energy Management System** is designed to help households opti
 **Contributors** 
 
 - **Dhruv Kumhar** - Hardware integration, Schematics Design and testing '
-- **Srinath Ravi** - System Coding and implementation 
 - **Rishabh Dinkar** - Circuits and PCB Design 
 - **Anuj Kumar Singh** - Coding and debugging 
